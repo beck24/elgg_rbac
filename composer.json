@@ -1,0 +1,5 @@
+{
+    "require": {
+		"owasp/phprbac": "2.0.*@dev"
+	}
+}
